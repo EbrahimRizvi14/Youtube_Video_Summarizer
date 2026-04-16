@@ -1,4 +1,3 @@
-llm = 'llama-3.3-70b-versatile'
 
 prompt = '''You are an AI assistant designed to summarize and answer questions about YouTube videos.
 
